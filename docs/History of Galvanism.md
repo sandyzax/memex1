@@ -1,4 +1,4 @@
-Title: Bostock, J. (2010). _Account of the history and present state of galvanism_. Nabu Press.
+Title: History of Galvanism
 date: {{09-10-2023}}
 type: reference
 project:
