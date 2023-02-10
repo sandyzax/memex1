@@ -1,0 +1,7 @@
+Title: Jacques de Vaucanson
+date: {{10-02-2023}
+type: reference
+project:
+Jacques de Vaucanson is a known French inventor. He is known to be the father of simulation and first inventor of robots or what is now called robots. He invented the "Flute Player" and "the Pipe Player" which are considered the first two androids in the world which are based on the methods of imitation and automation. Jaques de Vaucanson is also known for "the Digesting Duck" which simluated the ingestion of food, digestion of food and the excretion of waste products similar to the real digestion process. Jacques provided the stepping stone to the making of android from the middle 18th century to the first half of the 19th century. The motives of his inventions were to simulate human functions. Vaucanson used these methods of automation and simulation into loom design inventing the world's first automatic loom. His invention inspired Joseph Marie Jacquard to later invent the Jacquard loom of which was the most used loom design of that era.
+
+Wang, Y. (2020). Jacques de Vaucanson (1709–1782). In: Ceccarelli, M., Fang, Y. (eds) Distinguished Figures in Mechanism and Machine Science. MESROB 2018. History of Mechanism and Machine Science, vol 38. Springer, Cham. https://doi.org/10.1007/978-3-030-32398-1_2
