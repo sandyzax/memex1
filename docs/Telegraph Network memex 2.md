@@ -1,0 +1,12 @@
+In the 19th century, communication networks were viewed as an essential agent of new economic order and change. Protest movements like the Knights of Labor and the People's Party demanded the nationalization of the telegraph. Hubbard argued that it si the basic democratic rights of americans to have access to affordable communications. A "telegraph for the people" would nurture democracy and liberate flow of information strenghtening republic against corporate financiers. Hubbard also worried that what a private company could do with a dominant position controlling the country's vital ciruits of information. A private monopoly over telegraph communications poses a threat on american's democracy. Intercommunications was not evil according to Hubbard but the control of communications should belong to people and is their rights. Western Union was the first American company to forge a nation wide dominnance from a previously competitive industry. It controlled around 90 percent of telegraph market in the United States. Telegraph network was the economy, it served as a proxy to the market, interdependence or a big business. 
+
+  
+MacDougall, Robert. _The People's Network : The Political Economy of the Telephone in the Gilded Age_, University of Pennsylvania Press, 2013. _ProQuest Ebook Central_, http://ebookcentral.proquest.com/lib/oculcarleton-ebooks/detail.action?docID=3442309.  
+Created from oculcarleton-ebooks on 2023-03-10 17:02:26.
+
+MacDougall, Robert. _The People's Network : The Political Economy of the Telephone in the Gilded Age_, University of Pennsylvania Press, 2013. _ProQuest Ebook Central_, http://ebookcentral.proquest.com/lib/oculcarleton-ebooks/detail.action?docID=3442309.  
+Created from oculcarleton-ebooks on 2023-03-10 16:54:21.
+MacDougall, Robert. _The People's Network : The Political Economy of the Telephone in the Gilded Age_, University of Pennsylvania Press, 2013. _ProQuest Ebook Central_, http://ebookcentral.proquest.com/lib/oculcarleton-ebooks/detail.action?docID=3442309.  
+Created from oculcarleton-ebooks on 2023-03-10 16:47:24.
+MacDougall, Robert. _The People's Network : The Political Economy of the Telephone in the Gilded Age_, University of Pennsylvania Press, 2013. _ProQuest Ebook Central_, http://ebookcentral.proquest.com/lib/oculcarleton-ebooks/detail.action?docID=3442309.  
+Created from oculcarleton-ebooks on 2023-03-10 16:42:25.

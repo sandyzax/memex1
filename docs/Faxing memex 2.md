@@ -1,0 +1,7 @@
+According to the paper, faxing is considered to be a failed technology in two ways. In 1843, the marketing of fax by inventors and entrepeneurs failed in multiple marketplaces. In mid 1980, faxing finally started getting attention and exceeded promoters' expectatios. Fax lost its primacy in 1990 and early 2000s, due to the introduction of digital communications in the form of internet, the world wide web, cellphones and other technologies. Fax was a normal technology that experienced many unsuccessful commercialization attempts. While oher tehnologies succeeded more as they provide the same service more easily, more cheaply and a better quality. Economics plays an important role in technology. As mentioned in the paper "the best technology is worthless if it is too costly to be used". The failure in fax technology is due to the present of competing services and technologies that are less  expensive and have a better performance. 
+
+
+Coopersmith, Jonathan. _Faxed : The Rise and Fall of the Fax Machine_, Johns Hopkins University Press, 2015. _ProQuest Ebook Central_, http://ebookcentral.proquest.com/lib/oculcarleton-ebooks/detail.action?docID=3318872.  
+Created from oculcarleton-ebooks on 2023-03-10 02:58:54.
+Coopersmith, Jonathan. _Faxed : The Rise and Fall of the Fax Machine_, Johns Hopkins University Press, 2015. _ProQuest Ebook Central_, http://ebookcentral.proquest.com/lib/oculcarleton-ebooks/detail.action?docID=3318872.  
+Created from oculcarleton-ebooks on 2023-03-10 01:47:58.
