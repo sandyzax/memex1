@@ -1,7 +1,4 @@
-The main interlinakages between the history of electricity and cryptology:
-Storing of electric charge (electricity) and the storing of information (cryptology)
-Transfer of information from one place to another (cryptology) and creation of electric currents and the induction of electic charge from one object to another.
-Medium to transfer messages and communicate (cryptology) and medium for an electric current to flow and to be created.
-
-medium for silk weaving
-Punch cards storing information in regular occuring secure ways. 
+1. Logarithms and punch cards
+2. Transport of information, IP over Avian Carriers from memex 3 and the Atlantic Cable from memex 2.
+3. Relating earlier Webs such as Gopher and APRANET to the history of the internet
+4. The effect of commerse, business and economy on the Web such Gopher. Gopher failed as advertisments were not successful on the web which could be related to memex 2 were telegraphy failed due to the economy.
