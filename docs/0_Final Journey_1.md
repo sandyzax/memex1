@@ -1,0 +1,17 @@
+- [Threading silk class notes]
+- [History of Galvanism]
+- [Electricity]
+- [Telegraphy]
+- [The Atlantic Cable memex 2]
+
+The most powerful thing I have learnt in this course is the relationship between electricity, silk production and the social life that led to the invention of the internet. My expectations of this course was way off, I  did not expect this type of approach to understand the invention of the internet and the history behind it. Starting out with the history of silk threading, understanding that silk threading is a social practice which is the basis of the internet. Technology is not a tech its a social practice like weaving is a social practice as mentioned in [Threading silk class notes]. The interlinking networks that was involved in the process of threading silk is the main interlinkage with the idea of the internet. The first approach to an automated machine was by Jacques de vaucanson. He designed a duck that eats the food, digests the food, and excrete the food. In Jaquard's design, what was important is the punch card not the loom itself. 
+[Wang, Y. (2020). Jacques de Vaucanson (1709–1782). In: Ceccarelli, M., Fang, Y. (eds) Distinguished Figures in Mechanism and Machine Science. MESROB 2018. History of Mechanism and Machine Science, vol 38. Springer, Cham. https://doi.org/10.1007/978-3-030-32398-1_2]
+
+Something replicable, producible and stores information. The idea is that the change in social life of the city of Lyon lead to different paths redgarding silk threading. Which is why Babbage's design failed as it was beyond the physical capability of the 19th century. 
+
+The history of galvansim also involves the idea of storing information in a medium [Galvanism]. Electricity was temporarily stored in a Layden Jar. Joseph Henry discovered that an electrical current can induce electricity in another electrical current. This was a huge step in communication over distances. Michael Faraday's study about creating an electric field from a magnetic field led to the idea of deflecting a needle to point at some sort of code. This device laid the foundation for large-scale [electronic communications](https://www.thoughtco.com/the-history-of-the-electric-telegraph-and-telegraphy-1992542), as it led to the invention of the telegraph [Galvanism]. From there telegraphy led to the invention of the Atlantic Cable. The historian Gillian Cookson called the Atlantic cable "The wire that changed the world". Jorma Ahvenainen stated that "the global submarine cable network facilitated the very existence of world commerce and world politics".
+[MÜLLER, S. M. (2016). From Cabling the Atlantic to Wiring the World]
+Tully stated that the speed of communication was restricted to the speed of physical transportation [Imperialism And Telegraph memex 2]. Telegraphy had a major social, economical, and political impacts. In the 19th century, the era of "high imperialism", is when the reliance of communication on physical transportation was broken. This was due to the development electric telegraph, that allowed "real time" communications even with remote parts of the empire. The creation and maintenance of european empires from the late 19th century gained power due to the revolutionary improvements in communication technology. 
+Tully, J. (2009). A Victorian Ecological Disaster: Imperialism, the Telegraph, and Gutta-Percha. _Journal of World History_, _20_(4), 559–579. http://www.jstor.org/stable/40542850
+
+
